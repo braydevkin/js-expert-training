@@ -6,6 +6,9 @@
   "scripts": {
     "test": "node src/fibonacci.test.js"
   },
+  "engines": {
+    "node": "18"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
